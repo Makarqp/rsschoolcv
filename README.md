@@ -1,1 +1,1 @@
-# https://makarqp.github.io/rsschool-cv/
+# https://makarqp.github.io/rsschool-cv-html
